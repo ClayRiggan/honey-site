@@ -1,0 +1,15 @@
+body{
+	/*background-color: rgb(244, 203, 66) !important;*/
+	background-color: #fadc55 !important;
+	/*background-image: url("images\\backgroundBee.png");*/
+}
+
+hr{
+	border-top: 1px solid gray;
+	margin: 8%;
+}
+
+.productImg{
+	padding-left: 25%;
+	padding-right: 25%;
+}

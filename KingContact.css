@@ -1,0 +1,12 @@
+h1{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+body{
+	background-color: rgb(244, 203, 66) !important;
+	background-image: url("images\\backgroundBee.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}

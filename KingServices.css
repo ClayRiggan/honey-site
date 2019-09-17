@@ -1,0 +1,26 @@
+h1{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+h2{
+	text-align: center;
+}
+
+body{
+	background-color: rgb(244, 203, 66) !important;
+	/*background-image: url("images\\backgroundBee.png");*/
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+hr{
+	border-top: 1px solid gray;
+	margin: 8%;
+}
+
+p{
+	padding-right: 10%;
+	padding-left: 10%;
+}
